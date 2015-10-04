@@ -1,0 +1,26 @@
+{
+  "name": "imdb-top-250",
+  "version": "1.0.0",
+  "description": "testing continuous integration",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishorevarma/imdb-top-250.git"
+  },
+  "keywords": [
+    "IMDB",
+    "FILMS"
+  ],
+  "author": "Kishore Varma <kishorevarma.n@gmail,com> (http://www.nakiva.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kishorevarma/imdb-top-250/issues"
+  },
+  "homepage": "https://github.com/kishorevarma/imdb-top-250#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
